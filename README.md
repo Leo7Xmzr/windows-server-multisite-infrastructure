@@ -5,7 +5,7 @@ This project simulates a real-world enterprise infrastructure for a national com
 
 The infrastructure supports **2,000+ automated users**, segmented network traffic, and site-specific services (DHCP, DNS).
 
-**Status:** ✅ Completed 
+**Status:** In progress
 
 ---
 
